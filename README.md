@@ -1,4 +1,4 @@
 # AI
-<u>CSU33061 - Artificial Intelligence</u> <br />
-Homework 1 -
+CSU33061 - Artificial Intelligence <br />
+Homework 1 - <br />
 Homework 2 -
